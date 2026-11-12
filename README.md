@@ -18,7 +18,7 @@ The notebooks are intended to provide practical examples that users can adapt fo
 
 ## Running the notebooks on Euclid Data Space
 
-The recommended environment for running these notebooks is the **Euclid app** on ESA Datalabs.
+The recommended environment for running these notebooks is the **Euclid app** on Euclid Data Space.
 
 The Euclid app provides a JupyterLab environment with the main Euclid and scientific Python packages installed and direct access to the public Euclid data volumes.
 
