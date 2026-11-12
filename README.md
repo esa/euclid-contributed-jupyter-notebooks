@@ -16,15 +16,13 @@ The notebooks in this repository are contributed by members of the Euclid commun
 
 The notebooks are intended to provide practical examples that users can adapt for their own scientific analysis.
 
-> **Community contribution notice:** These notebooks are provided by their respective developers and are not maintained by ESA. They may require additional packages or updates and may not always work out of the box. Please refer to the documentation within each notebook for specific requirements.
-
 ## Running the notebooks on Euclid Data Space
 
 The recommended environment for running these notebooks is the **Euclid app** on ESA Datalabs.
 
 The Euclid app provides a JupyterLab environment with the main Euclid and scientific Python packages installed and direct access to the public Euclid data volumes.
 
-## ESA Third-Party Material Disclaimer and Submission Conditions
+> ## ESA Third-Party Material Disclaimer and Submission Conditions
 
 This ESA repository contains third-party software that has not been developed by ESA. ESA hosts and redistributes the third-party material on an **"as-is" basis** and does not assume responsibility for its content, maintenance, accuracy or legal compliance.
 
