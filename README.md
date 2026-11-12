@@ -2,11 +2,11 @@
 
 Community-contributed Jupyter notebooks for the data releases of the **ESA Euclid mission**, curated by the **Euclid Data Space User Group**.
 
-These notebooks complement the ESA-developed Euclid notebooks by providing additional science examples, analysis workflows and demonstrations of tools that can be used with Euclid data.
+These notebooks complement the ESA-developed Euclid notebooks by providing additional science examples, more advanced analysis workflows and demonstrations of tools that can be used with Euclid data.
 
 ## About these notebooks
 
-The notebooks in this repository are contributed by members of the Euclid community.They may demonstrate:
+The notebooks in this repository are contributed by members of the Euclid community. They may demonstrate:
 
 - scientific analysis of Euclid data;
 - access to Euclid catalogues, images and spectra;
