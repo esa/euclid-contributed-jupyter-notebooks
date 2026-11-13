@@ -1,0 +1,12 @@
+astropy
+astroquery
+jdaviz
+matplotlib
+numpy
+pandas
+Pillow
+regions
+sep
+specutils
+gelsa
+spectrapyle
