@@ -1,3 +1,5 @@
+Copyright (c) Manon Gilles (Exoplanet Team, IAP, France), Henry Joy McCracken, Clotilde Laigle.
+
 MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
